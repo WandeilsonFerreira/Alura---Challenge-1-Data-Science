@@ -5,23 +5,23 @@
 Este projeto tem como objetivo realizar uma análise dos dados operacionais de uma rede de lojas, a fim de avaliar o desempenho individual de cada unidade. Com base nos indicadores obtidos, busca-se identificar de forma embasada qual loja apresenta o menor rendimento e, portanto, deverá ser considerada para encerramento de suas atividades.
 
 ## Estrutura do projeto e organização dos arquivos.
-- Importação dos Dados
+1. Importação dos Dados
   - Leitura e consolidação dos dados das lojas.
   - Tratamento e limpeza básica (valores nulos, tipos de dados, etc).
-- Análise do Faturamento
+2. Análise do Faturamento
   - Faturamento individual por loja.
   - Cálculo do faturamento total da rede.
   - Visualizações em gráficos de barras e pizza.
-- Vendas por Categoria
+3. Vendas por Categoria
   - Agrupamento de produtos por categoria.
   - Comparativo de desempenho entre categorias por loja e no geral.
-- Média de Avaliação das Lojas
+4. Média de Avaliação das Lojas
   - Cálculo da média de avaliações por unidade.
   - Comparativo visual com gráfico de barras horizontais.
-- Produtos Mais e Menos Vendidos
+5. Produtos Mais e Menos Vendidos
   - Contagem e ordenação dos produtos por volume de vendas.
   - Destaque para os 5 mais e 5 menos vendidos.
-- Frete Médio por Loja
+6. Frete Médio por Loja
   - Cálculo do valor médio de frete cobrado por loja.
   - Identificação de padrões e possíveis otimizações logísticas.
  
