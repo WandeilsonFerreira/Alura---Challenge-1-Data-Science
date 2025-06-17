@@ -24,7 +24,7 @@ Este projeto tem como objetivo realizar uma análise dos dados operacionais de u
 6. Frete Médio por Loja
   - Cálculo do valor médio de frete cobrado por loja.
   - Identificação de padrões e possíveis otimizações logísticas.
- 
+7. Resultado
 
 ## Exemplos de gráficos e insights obtidos.
 1. Gráfico de Barras — Faturamento por Loja
